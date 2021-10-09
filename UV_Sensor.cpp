@@ -1,4 +1,4 @@
-int UVsensorIn = A0; 
+int UVsensorIn = 15; 
  
 void setup()
 {
